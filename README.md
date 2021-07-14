@@ -6,7 +6,7 @@ Deployed on Heroku --> https://todo-crud-js.herokuapp.com/
 
 ## Credentials
 <details>
-    <summary display:"inline-block">Username: aditya</summary>
+    <summary>Username: aditya</summary>
     
     Password: night
     
