@@ -1,5 +1,5 @@
 # Todo CRUD Application
-Basic JS To-do full-stack application using Express framework  
+Basic Javascript To-Do full-stack application using Express framework  
 Written as part of Brad Schiffs' JS full-stack development course  
 Tech Stack - Javascript (Node & Client-side)  
   
