@@ -4,10 +4,11 @@ Written as part of Brad Schiffs' JS full-stack development course
   
 Deployed on Heroku --> https://todo-crud-js.herokuapp.com/
 
-## Credentials
+## Credentials  
 <details>
-    <summary>Username: aditya</summary>
-    
-    Password: night
+<summary align='left'>username: <b>aditya</b></summary>  
+
+&nbsp;&nbsp;&nbsp;&nbsp;password: *night*
     
 </details>
+
