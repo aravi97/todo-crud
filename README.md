@@ -5,6 +5,8 @@ Written as part of Brad Schiffs' JS full-stack development course
   Deployed on Heroku --> https://todo-crud-js.herokuapp.com/
 
 <details>
-    <summary>Username: aditya</summary>
-    <p>  Password: night<p>
+    <summary display:"inline-block">Username: aditya</summary>
+    
+    Password: night
+    
 </details>
