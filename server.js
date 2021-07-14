@@ -7,6 +7,11 @@ let app = express()
 
 let db
 
+let port = process.env.PORT
+if(port == null || port == ""){
+  port = 3000
+}
+
 // Specify usage of objects and path root
 app.use(express.json())
 app.use(express.static('public'))
@@ -18,7 +23,7 @@ connectionString = "mongodb+srv://todo_admin:qwertysquirty@cluster0.isqc9.mongod
 
 mongodb.connect(connectionString, {useNewUrlParser: true, useUnifiedTopology: true}, function(err, client){
     db = client.db()
-    app.listen(3000)
+    app.listen(port)
 })
 
 function passwordProtected(req, res, next){
